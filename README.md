@@ -12,4 +12,4 @@ negocios reales cada día. Valencia.
 El código de los proyectos de cliente es privado porque son negocios reales. Los casos, con
 cifras y decisiones técnicas, están en el **[portfolio](https://martiexposito.github.io)**.
 
-[LinkedIn](https://www.linkedin.com/in/mart%C3%AD-exp%C3%B3sito-rocher-21ba48293) · martiexposito22@gmail.com
+[LinkedIn](https://www.linkedin.com/in/martiexposito) · martiexposito22@gmail.com
